@@ -15,6 +15,8 @@ Game over screen with final score
 Responsive layout
 
 Smooth glassmorphism UI style
+![image](https://github.com/user-attachments/assets/5a4fd0d7-4995-4640-846b-a2e6e551a672)
+
 
 📁 Project Structure
 
